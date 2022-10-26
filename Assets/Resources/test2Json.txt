@@ -1,0 +1,1 @@
+{"protoName":"MsgChat","msg":"Hello,I'm China Mobile","sender":"10086"}
